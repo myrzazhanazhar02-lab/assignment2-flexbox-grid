@@ -9,7 +9,6 @@
   margin-bottom: var(--space-l);
 }
 
-/* ===== Common for all modes ===== */
 .catalog {
   display: grid;
   gap: var(--space-m);
